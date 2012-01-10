@@ -219,6 +219,36 @@ a:hover {
   background-repeat: no-repeat;
 }
 
+#html5-yeah {
+  height: 500px;
+  background-image: url('../images/sunny_day_w800_h500.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#html5-stop {
+  height: 500px;
+  background-image: url('../images/stop_sign_w500_h500.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#html5-no4u {
+  height: 500px;
+  background-image: url('../images/no_html_5.png');
+  background-position: center center;
+  background-repeat: no-repeat; 
+}
+
+#entropi h1 {
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+#entropi p {
+  font-size: 25px;
+  line-height: 30px;
+}
 
 /* impress.js title */
 
